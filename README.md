@@ -73,4 +73,23 @@ As a data analyst/scientist at Target, you have been tasked with analyzing this 
 
 ## Conclusion
 
-By conducting a comprehensive analysis of this dataset using SQL, you will uncover valuable insights into Target's operations in Brazil. These insights will inform business decisions, improve operational efficiency, and enhance the overall customer experience. SQL queries and data analysis will play a pivotal role in transforming data into actionable recommendations for Target's continued success in the Brazilian market.
+By comprehensively analyzing this dataset using SQL, you will uncover valuable insights into Target's operations in Brazil. These insights will inform business decisions, improve operational efficiency, and enhance the overall customer experience. SQL queries and data analysis will be pivotal in transforming data into actionable recommendations for Target's continued success in the Brazilian market.
+
+
+## Creator
+
+This project was created by [Vishwas Joshi](https://github.com/vishwasjoshi2019).
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vishwas79116150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwas79116150" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwasjoshi2019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwasjoshi2019/" height="30" width="40" /></a>
+<a href="https://instagram.com/cursed_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursed_geek" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cursed_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cursed_geek" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vishwasjoshi2019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vishwasjoshi2019/" height="30" width="40" /></a>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-vishwasjoshi2019%40gmail.com-red)](mailto:vishwasjoshi2019@gmail.com)
+[![Institute Email](https://img.shields.io/badge/Institute%20Email-vishwas.j%40iitgn.ac.in-red)](mailto:vishwas.j@iitgn.ac.in)
+</p>
